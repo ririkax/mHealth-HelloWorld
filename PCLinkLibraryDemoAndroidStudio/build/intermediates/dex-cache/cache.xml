@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apple/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/apple/Desktop/demo source code/PCLinkLibraryDemoAndroidStudio/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-392b13333aee7de00e7e191c0e52a6e285138c4e.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Desktop/demo source code/PCLinkLibraryDemoAndroidStudio/app/libs/mysql-connector-java-5.0.8-bin.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7b9bfb6c4e4885660378a9c13330915c321f6cca">
+        <dex dex="/Users/apple/Desktop/demo source code/PCLinkLibraryDemoAndroidStudio/app/build/intermediates/pre-dexed/debug/mysql-connector-java-5.0.8-bin-5a9bf6ea4580825fe5093e9684d5b79101570b3d.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Desktop/demo source code/PCLinkLibraryDemoAndroidStudio/app/libs/pclinklibrary.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5036daae51775f128f45ab672cb75bff61d9bbd5">
+        <dex dex="/Users/apple/Desktop/demo source code/PCLinkLibraryDemoAndroidStudio/app/build/intermediates/pre-dexed/debug/pclinklibrary-cad3cb5162d7ea095f2f8de88d0bbac8f52c5cfe.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Desktop/demo source code/PCLinkLibraryDemoAndroidStudio/app/libs/jsch-0.1.53.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="28b183f2db44de2ca82f324ea996593dc6931b12">
+        <dex dex="/Users/apple/Desktop/demo source code/PCLinkLibraryDemoAndroidStudio/app/build/intermediates/pre-dexed/debug/jsch-0.1.53-d54b26ad1d248f0027781cd544864f69f9d8cf15.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Desktop/demo source code/PCLinkLibraryDemoAndroidStudio/app/libs/pl2303lib.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="95c9763875529e71b209ed730199232dee8e0026">
+        <dex dex="/Users/apple/Desktop/demo source code/PCLinkLibraryDemoAndroidStudio/app/build/intermediates/pre-dexed/debug/pl2303lib-916a8487bb2f23aa790d21214129d3a264f84cb4.jar" />
+    </item>
+
+</items>
